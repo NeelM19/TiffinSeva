@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TIFFIN SEVA</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="at_any_place_any_time_any_one">AT ANY PLACE, ANY TIME, ANY ONE</string>
+</resources>

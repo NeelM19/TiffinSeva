@@ -1,0 +1,5 @@
+<root>
+    <item name='android.os.Handler void handleMessage(android.os.Message) 0'>
+        <annotation name='androidx.annotation.NonNull' />
+    </item>
+</root>
